@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Abel');
+
+html, body {
+  background: #FCEEB5;
+  font-family: Abel, Arial, Verdana, sans-serif;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
